@@ -7,7 +7,7 @@ This project predicts the outcomes of the Euro 2024 tournament, from the group s
 The group stage consists of several groups where teams compete to advance to the knockout rounds. The third-placed teams from each group are also ranked to determine which teams will move forward to the knockout stage.
 
 ### Group A
-(![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/7bf59221-6815-4716-86a1-294f1ed9c145))
+[image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/7bf59221-6815-4716-86a1-294f1ed9c145)
 
 ### Group B
 ![Group B](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/276ac82c-360a-4713-a75c-b7e92aa00ef4)
