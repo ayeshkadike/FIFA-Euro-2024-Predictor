@@ -41,22 +41,22 @@ The knockout stage is where the top teams from the group stage compete in single
 
 The quarter-final stage is the next round where the winners of the Round of 16 matches compete.
 
-![Quarter-Final](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/3095d235-cbcf-43c9-9e3c-1528db6ba3ea)
-)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/3095d235-cbcf-43c9-9e3c-1528db6ba3ea)
+
 
 ## Semi-Final Stage
 
 The semi-final stage features the winners from the quarter-final matches competing for a spot in the final.
 
-![Semi-Final](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/e1767643-0b7d-4134-ab49-f949422c42a7)
-)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/e1767643-0b7d-4134-ab49-f949422c42a7)
+
 
 ## Final Stage
 
 The final match determines the winner of the Euro 2024 tournament.
 
-![Final](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/7d5b8c46-68d6-4f97-8bc2-30cc6f566885)
-)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/7d5b8c46-68d6-4f97-8bc2-30cc6f566885)
+
 
 ## Results
 
