@@ -10,32 +10,32 @@ The group stage consists of several groups where teams compete to advance to the
 ![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/7bf59221-6815-4716-86a1-294f1ed9c145)
 
 ### Group B
-![Group B]![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/276ac82c-360a-4713-a75c-b7e92aa00ef4)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/276ac82c-360a-4713-a75c-b7e92aa00ef4)
 
 
 ### Group C
-![Group C](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/78ac7ae1-aa64-47c6-9c28-2c81eeed99bd)
-)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/78ac7ae1-aa64-47c6-9c28-2c81eeed99bd)
+
 
 ### Group D
-![Group D](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/a73264e8-ec6f-449b-aca6-8e4a22cc8443)
-)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/a73264e8-ec6f-449b-aca6-8e4a22cc8443)
+
 
 ### Group E
-![Group E](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/6988f390-1e5a-413e-aa43-55daf3e98a0b)
-)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/6988f390-1e5a-413e-aa43-55daf3e98a0b)
+
 
 ### Group F
-![Group F](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/6f0ff240-4126-408c-b979-639d2a09dd5a)
-)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/6f0ff240-4126-408c-b979-639d2a09dd5a)
+
 
 ## Knockout Stage
 
 The knockout stage is where the top teams from the group stage compete in single-elimination matches.
 
 ### Round of 16
-![Round of 16](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/91647059-943c-4610-99df-924dd8e01db9)
-)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/91647059-943c-4610-99df-924dd8e01db9)
+
 
 ## Quarter-Final Stage
 
