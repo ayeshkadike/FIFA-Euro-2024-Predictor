@@ -64,20 +64,40 @@ The results of the matches from the group stage to the final are shown in the ta
 
 ### Group Stage Results
 #### Group A:
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/e98f0f57-939c-42fe-a05e-1a6a5c2c0591)
+
+#### Group B:
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/d7d21d1c-763b-4fbe-9f2e-5c07baf2887e)
+
+#### Group C:
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/2ce7fbeb-1da3-4aeb-bc1f-ed679a64f181)
+
+#### Group D:
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/c6037fd0-f0dc-4a65-8fdd-c07426733b9a)
+
+#### Group E:
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/3f7dad37-3f3f-4718-9ddd-fbd3a5b06c57)
+
+#### Group F:
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/0ce3e718-8375-4e61-97b0-21009b7fea86)
 
 
 ### Knockout Stage Results
-![Knockout Stage Results](path/to/your/image.png)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/c2c421a4-b9d4-49c1-a98a-aad29af8d85d)
+
 
 ### Quarter-Final Results
-![Quarter-Final Results](path/to/your/image.png)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/d484cd6a-3532-4a27-b5de-e148634e1ef3)
+
 
 ### Semi-Final Results
-![Semi-Final Results](path/to/your/image.png)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/b55b0404-67b3-4484-8dba-a690979f9645)
+
 
 ### Final Results
-![Final Results](path/to/your/image.png)
+![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/e6edca06-b6e0-47f8-875b-a4dfcfeb5fad)
+
 
 ## Conclusion
 
-The project successfully predicts the outcomes of the Euro 2024 tournament, showing a detailed progression from the group stage to the final match. The images provide a clear visual representation of the tournament's progression and the final results.
+The model predicts that Italy will win the 2024 EUFA Euro making it the second back to back winner of the cup apart from Spain, showing a detailed progression from the group stage to the final match. The images provide a clear visual representation of the tournament's progression and the final results.
