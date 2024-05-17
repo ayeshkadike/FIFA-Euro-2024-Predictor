@@ -10,8 +10,8 @@ The group stage consists of several groups where teams compete to advance to the
 ![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/7bf59221-6815-4716-86a1-294f1ed9c145)
 
 ### Group B
-![Group B](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/276ac82c-360a-4713-a75c-b7e92aa00ef4)
-)
+![Group B]![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/276ac82c-360a-4713-a75c-b7e92aa00ef4)
+
 
 ### Group C
 ![Group C](![image](https://github.com/ayeshkadike/UEFA-Euro-2024-Predictor/assets/146994029/78ac7ae1-aa64-47c6-9c28-2c81eeed99bd)
