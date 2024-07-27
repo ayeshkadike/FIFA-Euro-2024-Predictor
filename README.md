@@ -100,4 +100,7 @@ The results of the matches from the group stage to the final are shown in the ta
 
 ## Conclusion
 
-The model predicts that Italy will win the 2024 EUFA Euro making it the second back to back winner of the cup apart from Spain, showing a detailed progression from the group stage to the final match. The images provide a clear visual representation of the tournament's progression and the final results.
+The model predicts that Italy will win the 2024 UEFA Euro making it the second back to back winner of the cup apart from Spain, showing a detailed progression from the group stage to the final match. The images provide a clear visual representation of the tournament's progression and the final results.
+
+## Final Results
+Spain ended up taking the trophy at the end of the 2024 UEFA Euros, the model had great accuracy in group stage predictions however since it predominantly used historical data and not present it wasn't able to precisely predict the outcomes of the knockout stage, despite this it did however predict that Spain would make it to the final which is what happened in reality and the won the Euro which I would say was a great outcome of this model.
